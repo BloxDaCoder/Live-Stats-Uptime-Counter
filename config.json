@@ -1,0 +1,5 @@
+{
+    "token": "BOT_TOKEN_HERE", // your bot token here
+    "interval": 1, // how long to update your latest uptime (in minutes ONLY)
+    "guildID": "0" // the ID of the guild to track your uptime in (make sure the bot is in that guild!)
+}
