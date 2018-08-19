@@ -15,7 +15,11 @@ token - The token of your bot
 
 Support Information : 
 
-I may or may not provide support but feel free to try your luck by DMing me on Blox_BlackJack#2373
+I may or may not provide support but feel free to try your luck by DMing me on Blox_BlackJack#2373 or submit a request (idk i'm new to github)
+
+Bugs or Glitches? :
+
+Well you're lucky if you're seeing this! Because for now, I will still be fixing all bugs and glitches found, so make sure to DM me @ Blox_BlackJack#2373 or submit a request (idk i'm new to github)
 
 
 Last Words :
