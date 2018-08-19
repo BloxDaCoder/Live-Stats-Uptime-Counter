@@ -21,6 +21,14 @@ Bugs or Glitches? :
 
 Well you're lucky if you're seeing this! Because for now, I will still be fixing all bugs and glitches found, so make sure to DM me @ Blox_BlackJack#2373 or submit a issue request (idk i'm new to github)
 
+Updates :
+
+Added channel perms (if you did not create one)
+
+Added Longest Uptime so that you can know your bot stability
+
+Changed a couple of things
+
 
 Last Words :
 
